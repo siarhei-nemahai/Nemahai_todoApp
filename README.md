@@ -1,2 +1,0 @@
-# Nemahai_todoApp
-todoApp
